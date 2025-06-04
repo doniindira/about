@@ -20,19 +20,8 @@ My coding journey began differently than most - instead of starting with web bas
 ### Software Developer at [HK Teknologi](https://hktekno.com/)
 **Current Position**
 
-### Backend Developer - SMEXPO Pertamina (2023)
-- Developed backend services for [SMEXPO Pertamina](https://smexpo.pertamina.com/)
-- **Tech Stack:** Laravel, Tailwind CSS
-
-### Full Stack Developer (2022-2023)
-- Built comprehensive API services for client finance applications
-- Developed event registration websites with advanced features:
-  - User registration systems
-  - Racepack payment integration
-  - BIB photo display functionality
-  - Prize draw spinner mechanics
-- **Notable Projects:** Mahakam Korpri Run 5K 2024, Sisterhood Run 2025
-- Developed **GenggamanMu** food delivery mobile application
+### Fullstack Developer
+- Developed backend and mobile apps 
 - **Tech Stack:** Laravel (Backend), React Native with Expo (Mobile)
 
 ### Web Developer Intern at [CV Beesoft Research & Technology (Britech)](https://britech.id/)
@@ -56,9 +45,6 @@ My coding journey began differently than most - instead of starting with web bas
 
 ### Currently Learning
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ## 🎯 Core Competencies
 
@@ -73,55 +59,36 @@ My coding journey began differently than most - instead of starting with web bas
 
 ### 🏢 Enterprise & Business Applications
 
-#### SMEXPO Pertamina (2023)
-![SMEXPO Pertamina](https://via.placeholder.com/600x300/FF6B35/FFFFFF?text=SMEXPO+Pertamina)
+#### SMEXPO Pertamina (2022-2023)
+<img src="./assets/img/smexpo/cover.png" alt="smexpo" width="500"/>
 **Backend Developer** | [Live Site](https://smexpo.pertamina.com/)
 
-A comprehensive exhibition management system for PT Pertamina's business expo events.
+A comprehensive exhibition management system for PT Pertamina's business expo events on 2022-2023.
 
 **Key Features:**
 - Event management dashboard
 - Exhibitor registration and management
 - Visitor tracking and analytics
-- Real-time reporting system
 
 **Tech Stack:** Laravel, Tailwind CSS, MySQL
 **My Role:** Developed robust backend APIs, implemented authentication system, and created admin dashboard
 
 ---
 
-#### Client Finance Application (2022-2023)
-![Finance App](https://via.placeholder.com/600x300/4285F4/FFFFFF?text=Finance+Application+API)
-**Full Stack Developer**
-
-A comprehensive financial management system providing API services for client portfolio management.
-
-**Key Features:**
-- Secure API endpoints for financial data
-- User authentication and authorization
-- Transaction processing and tracking
-- Financial reporting and analytics
-- Real-time data synchronization
-
-**Tech Stack:** Laravel, PHP, MySQL, RESTful APIs
-**My Role:** Architected and developed complete API infrastructure, implemented security protocols, and created comprehensive documentation
-
----
-
 ### 🏃‍♀️ Event Management Systems
 
 #### Mahakam Korpri Run 5K 2024
-![Mahakam Run](https://via.placeholder.com/600x300/E91E63/FFFFFF?text=Mahakam+Korpri+Run+5K)
+<img src="./assets/img/mkr-2024/cover.png" alt="mkr2024" width="500"/>
 **Full Stack Developer**
 
 A complete event registration platform for the annual Mahakam Korpri Run 5K race in East Kalimantan.
 
 <p float="left">
-<img src="./assets/img/mkr-2024/1.png" alt="mkr2024" width="100"/>
-<img src="./assets/img/mkr-2024/2.png" alt="mkr2024" width="100"/>
-<img src="./assets/img/mkr-2024/3.png" alt="mkr2024" width="100"/>
-<img src="./assets/img/mkr-2024/4.png" alt="mkr2024" width="100"/>
-<img src="./assets/img/mkr-2024/5.png" alt="mkr2024" width="100"/>
+    <img src="./assets/img/mkr-2024/1.png" alt="mkr2024" width="100"/>
+    <img src="./assets/img/mkr-2024/2.png" alt="mkr2024" width="100"/>
+    <img src="./assets/img/mkr-2024/3.png" alt="mkr2024" width="100"/>
+    <img src="./assets/img/mkr-2024/4.png" alt="mkr2024" width="100"/>
+    <img src="./assets/img/mkr-2024/5.jpg" alt="mkr2024" width="100"/>
 </p>
 
 **Key Features:**
@@ -137,67 +104,96 @@ A complete event registration platform for the annual Mahakam Korpri Run 5K race
 
 ---
 
-#### Sisterhood Run 2025
-![Sisterhood Run](https://via.placeholder.com/600x300/9C27B0/FFFFFF?text=Sisterhood+Run+2025)
+#### Hermina Run 2025
+<img src="./assets/img/herminarun-2025/cover.png" alt="herminarun2025" width="500"/>
 **Full Stack Developer**
 
-An empowering women's run event platform with advanced registration and community features.
+An empowering run event platform with advanced registration and community features.
 
 **Key Features:**
-- Gender-specific registration forms
-- Community features for participants
-- Racepack customization and payment
-- Digital certificate generation
-- Social media integration for event promotion
-- Prize wheel system for event engagement
+- Online registration system with form validation
+- Secure payment gateway integration for racepack purchases
+- Automated BIB number generation and assignment
+- Photo gallery for participant BIB photos
+- Interactive prize draw spinner for event prizes
+- Real-time participant tracking and management
 
-**Tech Stack:** Laravel, Tailwind CSS, MySQL, Social Media APIs
-**My Role:** Complete platform development with focus on user experience and community building
+**Tech Stack:** Laravel, MySQL, Payment Gateway APIs, JavaScript
+**My Role:** End-to-end development from registration system to prize mechanics
+
+---
+
+### 🏃‍♀️ E-commerce Management
+
+#### Toko Bazar![alt text](tokobazar.png)
+<img src="./assets/img/toko-bazar/cover.png" alt="toko-bazar" width="500"/>
+**Developer Backend**
+
+<p float="left">
+    <img src="./assets/img/toko-bazar/1.png" alt="toko-bazar" width="100"/>
+    <img src="./assets/img/toko-bazar/2.png" alt="toko-bazar" width="100"/>
+    <img src="./assets/img/toko-bazar/3.png" alt="toko-bazar" width="100"/>
+    <img src="./assets/img/toko-bazar/4.png" alt="toko-bazar" width="100"/>
+</p>
+
+
+**Key Features:**
+- Backend apis for mobile apps
+- Dashbboard management
+
+**Tech Stack:** Laravel, JavaScript
+**My Role:** Developed robust backend APIs, implemented authentication system, and created admin dashboard
 
 ---
 
 ### 📱 Mobile Applications
 
 #### GenggamanMu - Food Delivery App
-![GenggamanMu](https://via.placeholder.com/600x300/FF9800/FFFFFF?text=GenggamanMu+Food+Delivery)
+<img src="./assets/img/genggamanmu/cover.png" alt="genggamanmu" width="500"/>
 **Full Stack Mobile Developer**
+
+<p float="left">
+    <img src="./assets/img/genggamanmu/1.PNG" alt="genggamanmu" width="100"/>
+    <img src="./assets/img/genggamanmu/2.PNG" alt="genggamanmu" width="100"/>
+    <img src="./assets/img/genggamanmu/3.PNG" alt="genggamanmu" width="100"/>
+    <img src="./assets/img/genggamanmu/4.PNG" alt="genggamanmu" width="100"/>
+    <img src="./assets/img/genggamanmu/5.PNG" alt="genggamanmu" width="100"/>
+</p>
 
 A comprehensive food delivery application serving local restaurants and customers.
 
 **Key Features:**
 - **Customer App:** Browse restaurants, place orders, real-time tracking, payment integration
-- **Restaurant Dashboard:** Menu management, order processing, analytics
+- **Restaurant App:** Menu management, order processing
 - **Delivery Tracking:** Real-time GPS tracking for deliveries
 - **Payment System:** Multiple payment options including digital wallets
-- **Rating & Review System:** Customer feedback and restaurant ratings
 - **Push Notifications:** Order updates and promotional notifications
 
 **Tech Stack:** 
-- **Backend:** Laravel, MySQL, RESTful APIs
+- **Backend:** Laravel, MySQL, RESTful APIs, Redis, Neumatim, Valhalla ORM, Docker, Firebase
 - **Mobile:** React Native with Expo
-- **Real-time:** WebSocket connections
-- **Maps:** Google Maps API integration
+- **Real-time:** Firebase Realtime Database
+- **Maps:** Google Maps API integration, Neumatim Geocode/Reverse Geocode, Valhalla ORM Machine Routing
 
 **My Role:** Full-stack development including backend API design, mobile app development, and system integration
+
+**Official Manual Guides :** https://docs.genggamanmu.com/
 
 ---
 
 ### 🌐 Web Development Projects
 
 #### Samarinda Geographic Information System
-![GIS Samarinda](https://via.placeholder.com/600x300/2196F3/FFFFFF?text=Samarinda+GIS+System)
+<img src="./assets/img/gistaru/cover.jpg" alt="gistaru" width="500"/>
 **Frontend Developer Intern** | CV Beesoft Research & Technology
 
 A comprehensive Geographic Information System for Samarinda City government.
 
 **Key Features:**
-- Interactive city mapping interface
+- Web design
 - Location-based data visualization
-- Administrative boundary management
-- Public facility location tracking
-- Urban planning data integration
 
-**Tech Stack:** OctoberCMS, JavaScript, Leaflet.js, PostgreSQL
+**Tech Stack:** OctoberCMS, JavaScript, HTML, CSS
 **My Role:** Frontend development using OctoberCMS, created interactive map interfaces and data visualization components
 
 ---
@@ -216,8 +212,7 @@ I'm always keeping up with the constantly evolving tech landscape - its tools, l
 I'm always interested in collaborating on interesting projects or discussing new technologies. Feel free to reach out!
 
 - 🌐 **Website:** [profile.maskablog.my.id](https://profile.maskablog.my.id/)
-- 💼 **LinkedIn:** Connect with me for professional networking
-- 📧 **Email:** Feel free to drop me a message
+- 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/doni-indira-putra-169512206/)
 
 ---
 
