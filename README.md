@@ -61,8 +61,9 @@ My coding journey began differently than most - instead of starting with web bas
 
 #### SMEXPO Pertamina (2022-2023)
 <img src="./assets/img/smexpo/cover.png" alt="smexpo" width="500"/>
-**Backend Developer** | [Live Site](https://smexpo.pertamina.com/)
 
+**Backend Developer** | [Live Site](https://smexpo.pertamina.com/)
+ 
 A comprehensive exhibition management system for PT Pertamina's business expo events on 2022-2023.
 
 **Key Features:**
@@ -125,7 +126,7 @@ An empowering run event platform with advanced registration and community featur
 
 ### 🏃‍♀️ E-commerce Management
 
-#### Toko Bazar![alt text](tokobazar.png)
+#### Toko Bazar!
 <img src="./assets/img/toko-bazar/cover.png" alt="toko-bazar" width="500"/>
 **Developer Backend**
 
@@ -203,9 +204,8 @@ A comprehensive Geographic Information System for Samarinda City government.
 I'm always keeping up with the constantly evolving tech landscape - its tools, libraries, frameworks, and the vibrant community discussions that make this field so dynamic and exciting. Currently diving deeper into:
 
 - **Go (Golang)** for backend services
-- **TensorFlow** for machine learning applications
 - **Docker** for containerization
-- **Apache Kafka** for distributed systems
+
 
 ## 📫 Let's Connect!
 
