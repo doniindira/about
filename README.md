@@ -116,6 +116,8 @@ A comprehensive financial management system providing API services for client po
 
 A complete event registration platform for the annual Mahakam Korpri Run 5K race in East Kalimantan.
 
+![mkr1](./assets/img/mkr-2024/1.png)
+
 **Key Features:**
 - Online registration system with form validation
 - Secure payment gateway integration for racepack purchases
