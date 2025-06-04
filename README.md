@@ -1,137 +1,216 @@
+# Hi there! 👋 I'm Doni Indira Putra
 
-# 📱 My Profile
+[![GitHub](https://img.shields.io/badge/GitHub-@doniindira-181717?style=flat-square&logo=github)](https://github.com/doniindira)
+[![Website](https://img.shields.io/badge/Website-profile.maskablog.my.id-FF5722?style=flat-square&logo=web)](https://profile.maskablog.my.id/)
 
-**Genggamanmu** adalah aplikasi pemesanan makanan dan minuman berbasis mobile yang memudahkan pengguna di Samarinda untuk menemukan dan memesan kuliner favorit mereka secara online. Dengan dukungan layanan antar oleh driver lokal dan standar kualitas yang tinggi, Genggamanmu hadir sebagai solusi kuliner digital masa kini.
+## 🚀 About Me
 
----
+I'm a **Software Developer** ❤️ passionate about creating innovative solutions and learning new technologies through hands-on experience.
 
-## 📌 Table of Contents
+- 🌍 Born in Jakarta, grew up in Long Iram sub-district, Kutai Barat district, East Kalimantan province, Indonesia 🇮🇩
+- 💻 Started my programming journey with **C/C++** and **QT Designer** for desktop applications
+- 🌐 Transitioned to web development with **CodeIgniter**, then discovered **Laravel**
+- 📱 Explored **Flutter** before settling on **React Native** for mobile development
+- 🔍 Always eager to explore new technologies and frameworks
 
-- [Features](#-features)
-<!-- - [Screenshots](#-screenshots) -->
-- [📱 My Profile](#-my-profile)
-  - [📌 Table of Contents](#-table-of-contents)
-  - [✨ Features](#-features)
-  - [🧰 Tech Stack](#-tech-stack)
-  - [🚀 Getting Started](#-getting-started)
-    - [1. Clone Repository](#1-clone-repository)
-    - [2. Setup Backend (Laravel)](#2-setup-backend-laravel)
-    - [3. Setup Node](#3-setup-node)
-  - [📥 Download App](#-download-app)
-  - [🧑‍🤝‍🧑 Join Us](#-join-us)
-  - [🌐 Contact](#-contact)
-  - [📄 License](#-license)
-  - [🏫 About](#-about)
+My coding journey began differently than most - instead of starting with web basics, I dove into systems programming with C and C++ for university projects. This foundation gave me a solid understanding of programming fundamentals before I ventured into web and mobile development.
 
----
+## 💼 Professional Experience
 
-## ✨ Features
+### Software Developer at [HK Teknologi](https://hktekno.com/)
+**Current Position**
 
-- 🔍 **Easy Ordering**  
-  Temukan dan pesan makanan & minuman favorit hanya dalam beberapa klik.
+### Backend Developer - SMEXPO Pertamina (2023)
+- Developed backend services for [SMEXPO Pertamina](https://smexpo.pertamina.com/)
+- **Tech Stack:** Laravel, Tailwind CSS
 
-- 🥗 **Healthy & Halal**  
-  Semua menu telah melalui verifikasi *Halal* (MUI) & *Health Standard*.
+### Full Stack Developer (2022-2023)
+- Built comprehensive API services for client finance applications
+- Developed event registration websites with advanced features:
+  - User registration systems
+  - Racepack payment integration
+  - BIB photo display functionality
+  - Prize draw spinner mechanics
+- **Notable Projects:** Mahakam Korpri Run 5K 2024, Sisterhood Run 2025
+- Developed **GenggamanMu** food delivery mobile application
+- **Tech Stack:** Laravel (Backend), React Native with Expo (Mobile)
 
-- ⭐ **Taste Guarantee**  
-  Kualitas rasa sesuai standar Samarinda Food.
+### Web Developer Intern at [CV Beesoft Research & Technology (Britech)](https://britech.id/)
+- Frontend development using **OctoberCMS**
+- Worked on Samarinda City's Geographic Information System
+- Gained valuable experience with CMS platforms
 
-- 🛍️ **Merchant Integration**  
-  Merchant bisa mendaftarkan tokonya dan mengelola produk dengan mudah.
+## 🛠️ Technical Skills
 
-- 🛵 **Driver Network**  
-  Sistem antar makanan cepat dan efisien oleh mitra driver lokal.
+### Primary Technologies
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 
----
+### Additional Technologies
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<!-- ## 🖼️ Screenshots
+### Currently Learning
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-> *(Tambahkan tangkapan layar aplikasi di sini jika tersedia)*
+## 🎯 Core Competencies
 
---- -->
+- **Backend Development:** Laravel, PHP, API Design & Development
+- **Mobile Development:** React Native, Expo, Cross-platform Applications
+- **Frontend Development:** React.js, Next.js, Tailwind CSS
+- **Database Management:** MySQL, Database Design & Optimization
+- **System Integration:** Payment Gateways, Third-party APIs
+- **Project Management:** Full-stack project delivery, Client Communication
 
-## 🧰 Tech Stack
+## 📱 Featured Projects
 
-| Layer       | Technology                                      |
-|-------------|--------------------------------------------------|
-| **Frontend**| React Native + Expo                             |
-| **Backend** | Laravel                                          |
-| **Database**| MySQL / PostgreSQL                              |
-| **Auth**    | Firebase Auth / Laravel Sanctum                  |
-| **Routing** | [Valhalla](https://github.com/valhalla/valhalla) (Open-source Routing Engine) |
+### 🏢 Enterprise & Business Applications
 
-**Routing Note:**  
-Kami menggunakan **Valhalla** untuk menghitung rute optimal antar lokasi (merchant → pelanggan) berdasarkan waktu, jarak, dan kondisi lalu lintas. Cocok untuk kendaraan roda dua dengan rute lokal yang efisien.
+#### SMEXPO Pertamina (2023)
+![SMEXPO Pertamina](https://via.placeholder.com/600x300/FF6B35/FFFFFF?text=SMEXPO+Pertamina)
+**Backend Developer** | [Live Site](https://smexpo.pertamina.com/)
 
----
+A comprehensive exhibition management system for PT Pertamina's business expo events.
 
-## 🚀 Getting Started
+**Key Features:**
+- Event management dashboard
+- Exhibitor registration and management
+- Visitor tracking and analytics
+- Real-time reporting system
 
-Untuk memulai dengan Genggamanmu, ikuti langkah-langkah di bawah ini:
-
-### 1. Clone Repository
-
-```bash
-git clone https://git.umkt.ac.id/genggamanmu/genggamanmu-dashboard.git
-cd genggamanmu-dashboard
-```
-
-### 2. Setup Backend (Laravel)
-
-```bash
-cd genggamanmu-dashboard
-cp .env.example .env
-composer install
-php artisan key:generate
-php artisan migrate --seed
-php artisan serve
-```
-
-### 3. Setup Node
-
-```bash
-cd genggamanmu-dashboard
-npm install
-npm run build
-```
-
-> Pastikan Anda sudah menginstal **Node.js**, **Composer**, dan **PHP** secara global sebelum menjalankan langkah-langkah di atas.
+**Tech Stack:** Laravel, Tailwind CSS, MySQL
+**My Role:** Developed robust backend APIs, implemented authentication system, and created admin dashboard
 
 ---
 
-## 📥 Download App
+#### Client Finance Application (2022-2023)
+![Finance App](https://via.placeholder.com/600x300/4285F4/FFFFFF?text=Finance+Application+API)
+**Full Stack Developer**
 
-📲 **Android (APK)**  
-[Download via Dokumentasi Kami](https://docs.genggamanmu.com/introduction)
+A comprehensive financial management system providing API services for client portfolio management.
 
----
+**Key Features:**
+- Secure API endpoints for financial data
+- User authentication and authorization
+- Transaction processing and tracking
+- Financial reporting and analytics
+- Real-time data synchronization
 
-## 🧑‍🤝‍🧑 Join Us
-
-Ingin bergabung dengan Genggamanmu?
-
-- **Customer** – Unduh aplikasi dan nikmati kemudahan memesan makanan & minuman.
-- **Merchant** – Daftarkan bisnis kuliner Anda untuk menjangkau lebih banyak pelanggan.
-- **Driver** – Gabung sebagai mitra pengantar dan dapatkan penghasilan dengan mengantar pesanan.
-
----
-
-## 🌐 Contact
-
-Kunjungi situs web kami untuk informasi lebih lanjut:
-
-- 🌍 Website: [https://genggamanmu.com](https://genggamanmu.com)
-- ✉️ Hubungi Kami: [Formulir Kontak](https://genggamanmu.com/#hubungi-kami)
+**Tech Stack:** Laravel, PHP, MySQL, RESTful APIs
+**My Role:** Architected and developed complete API infrastructure, implemented security protocols, and created comprehensive documentation
 
 ---
 
-## 📄 License
+### 🏃‍♀️ Event Management Systems
 
-© 2024 Genggamanmu – Universitas Muhammadiyah Kalimantan Timur (UMKT)  
-Lisensi untuk penggunaan internal. Distribusi tanpa izin dilarang.
+#### Mahakam Korpri Run 5K 2024
+![Mahakam Run](https://via.placeholder.com/600x300/E91E63/FFFFFF?text=Mahakam+Korpri+Run+5K)
+**Full Stack Developer**
+
+A complete event registration platform for the annual Mahakam Korpri Run 5K race in East Kalimantan.
+
+**Key Features:**
+- Online registration system with form validation
+- Secure payment gateway integration for racepack purchases
+- Automated BIB number generation and assignment
+- Photo gallery for participant BIB photos
+- Interactive prize draw spinner for event prizes
+- Real-time participant tracking and management
+
+**Tech Stack:** Laravel, MySQL, Payment Gateway APIs, JavaScript
+**My Role:** End-to-end development from registration system to prize mechanics
 
 ---
 
-## 🏫 About
+#### Sisterhood Run 2025
+![Sisterhood Run](https://via.placeholder.com/600x300/9C27B0/FFFFFF?text=Sisterhood+Run+2025)
+**Full Stack Developer**
 
-Proyek ini dikembangkan oleh **Genggamanmu** dengan kolaborasi dari mahasiswa Universitas Muhammadiyah Kalimantan Timur (UMKT).
+An empowering women's run event platform with advanced registration and community features.
+
+**Key Features:**
+- Gender-specific registration forms
+- Community features for participants
+- Racepack customization and payment
+- Digital certificate generation
+- Social media integration for event promotion
+- Prize wheel system for event engagement
+
+**Tech Stack:** Laravel, Tailwind CSS, MySQL, Social Media APIs
+**My Role:** Complete platform development with focus on user experience and community building
+
+---
+
+### 📱 Mobile Applications
+
+#### GenggamanMu - Food Delivery App
+![GenggamanMu](https://via.placeholder.com/600x300/FF9800/FFFFFF?text=GenggamanMu+Food+Delivery)
+**Full Stack Mobile Developer**
+
+A comprehensive food delivery application serving local restaurants and customers.
+
+**Key Features:**
+- **Customer App:** Browse restaurants, place orders, real-time tracking, payment integration
+- **Restaurant Dashboard:** Menu management, order processing, analytics
+- **Delivery Tracking:** Real-time GPS tracking for deliveries
+- **Payment System:** Multiple payment options including digital wallets
+- **Rating & Review System:** Customer feedback and restaurant ratings
+- **Push Notifications:** Order updates and promotional notifications
+
+**Tech Stack:** 
+- **Backend:** Laravel, MySQL, RESTful APIs
+- **Mobile:** React Native with Expo
+- **Real-time:** WebSocket connections
+- **Maps:** Google Maps API integration
+
+**My Role:** Full-stack development including backend API design, mobile app development, and system integration
+
+---
+
+### 🌐 Web Development Projects
+
+#### Samarinda Geographic Information System
+![GIS Samarinda](https://via.placeholder.com/600x300/2196F3/FFFFFF?text=Samarinda+GIS+System)
+**Frontend Developer Intern** | CV Beesoft Research & Technology
+
+A comprehensive Geographic Information System for Samarinda City government.
+
+**Key Features:**
+- Interactive city mapping interface
+- Location-based data visualization
+- Administrative boundary management
+- Public facility location tracking
+- Urban planning data integration
+
+**Tech Stack:** OctoberCMS, JavaScript, Leaflet.js, PostgreSQL
+**My Role:** Frontend development using OctoberCMS, created interactive map interfaces and data visualization components
+
+---
+
+## 🌱 What I'm Currently Exploring
+
+I'm always keeping up with the constantly evolving tech landscape - its tools, libraries, frameworks, and the vibrant community discussions that make this field so dynamic and exciting. Currently diving deeper into:
+
+- **Go (Golang)** for backend services
+- **TensorFlow** for machine learning applications
+- **Docker** for containerization
+- **Apache Kafka** for distributed systems
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on interesting projects or discussing new technologies. Feel free to reach out!
+
+- 🌐 **Website:** [profile.maskablog.my.id](https://profile.maskablog.my.id/)
+- 💼 **LinkedIn:** Connect with me for professional networking
+- 📧 **Email:** Feel free to drop me a message
+
+---
+
+*"I'm the kind of person who loves to learn new things, especially through hands-on experience."*
